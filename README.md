@@ -66,14 +66,14 @@ If there is any issue with the database connection, navigate to `electricity/bil
 - **Password**: `text1`
 - **UserType**: `Customer`
 
-## Here are some screenshots of the system
+## Here are some screenshots of the system:
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243b970a-1550-4d8e-9d81-9665b19fb305" alt="Screenshot 1" width="280">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/cc7eabd8-a9f8-4933-a036-b1fd7ba7b976" alt="Screenshot 2" width="280">
+  <img src="https://github.com/user-attachments/assets/243b970a-1550-4d8e-9d81-9665b19fb305" alt="Screenshot 1" width="285">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/cc7eabd8-a9f8-4933-a036-b1fd7ba7b976" alt="Screenshot 2" width="285">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/34547fff-c846-435c-9c54-2c03bc45e724" alt="Screenshot 3" width="280">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d5ca8862-1b11-4ca1-8064-6c90f0fb8268" alt="Screenshot 4" width="280">
+  <img src="https://github.com/user-attachments/assets/34547fff-c846-435c-9c54-2c03bc45e724" alt="Screenshot 3" width="285">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d5ca8862-1b11-4ca1-8064-6c90f0fb8268" alt="Screenshot 4" width="285">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cfc9cf72-612d-4268-8420-23dd4945ee93" alt="Screenshot 5" width="600">
@@ -93,5 +93,6 @@ If there is any issue with the database connection, navigate to `electricity/bil
   <img src="https://github.com/user-attachments/assets/67d131c1-bf93-430c-993c-05896186d3f4" alt="Screenshot 12" width="600">
   <br>
 </p>
+
 ## Additional Notes!
 - Ensure XAMPP is running before starting the application.
